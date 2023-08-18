@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982541555119",
+    "project_id": "docappointment-38ef4",
+    "storage_bucket": "docappointment-38ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982541555119:android:76b244f9328e7540838b5a",
+        "android_client_info": {
+          "package_name": "com.kashyap.docappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982541555119-sc21gbs3kcvhsh6ngp5uh62af79ljfvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhl-SFU4xFHkC62zcnIaB6mvwDoEL8Yz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982541555119-sc21gbs3kcvhsh6ngp5uh62af79ljfvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
